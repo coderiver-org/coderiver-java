@@ -1,4 +1,2 @@
-# coderiver-java
-CodeRiver java repository
-
-test
+# coderiver_java
+CodeRiver Java后端项目
