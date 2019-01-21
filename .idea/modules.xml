@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/coderiver_base/coderiver_base.iml" filepath="$PROJECT_DIR$/coderiver_base/coderiver_base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coderiver_common/coderiver_common.iml" filepath="$PROJECT_DIR$/coderiver_common/coderiver_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coderiver_config/coderiver_config.iml" filepath="$PROJECT_DIR$/coderiver_config/coderiver_config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coderiver_email/coderiver_email.iml" filepath="$PROJECT_DIR$/coderiver_email/coderiver_email.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coderiver_eureka/coderiver_eureka.iml" filepath="$PROJECT_DIR$/coderiver_eureka/coderiver_eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coderiver_event/coderiver_event.iml" filepath="$PROJECT_DIR$/coderiver_event/coderiver_event.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coderiver_friend/coderiver_friend.iml" filepath="$PROJECT_DIR$/coderiver_friend/coderiver_friend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coderiver_manager/coderiver_manager.iml" filepath="$PROJECT_DIR$/coderiver_manager/coderiver_manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coderiver_platform.iml" filepath="$PROJECT_DIR$/coderiver_platform.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coderiver_project/coderiver_project.iml" filepath="$PROJECT_DIR$/coderiver_project/coderiver_project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coderiver_qa/coderiver_qa.iml" filepath="$PROJECT_DIR$/coderiver_qa/coderiver_qa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coderiver_recruit/coderiver_recruit.iml" filepath="$PROJECT_DIR$/coderiver_recruit/coderiver_recruit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coderiver_resources/coderiver_resources.iml" filepath="$PROJECT_DIR$/coderiver_resources/coderiver_resources.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coderiver_search/coderiver_search.iml" filepath="$PROJECT_DIR$/coderiver_search/coderiver_search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coderiver_user/coderiver_user.iml" filepath="$PROJECT_DIR$/coderiver_user/coderiver_user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coderiver_web/coderiver_web.iml" filepath="$PROJECT_DIR$/coderiver_web/coderiver_web.iml" />
+    </modules>
+  </component>
+</project>

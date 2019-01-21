@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="coderiver_base" />
+        <module name="coderiver_common" />
+        <module name="coderiver_config" />
+        <module name="coderiver_email" />
+        <module name="coderiver_eureka" />
+        <module name="coderiver_event" />
+        <module name="coderiver_friend" />
+        <module name="coderiver_manager" />
+        <module name="coderiver_project" />
+        <module name="coderiver_qa" />
+        <module name="coderiver_recruit" />
+        <module name="coderiver_resources" />
+        <module name="coderiver_search" />
+        <module name="coderiver_user" />
+        <module name="coderiver_web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="coderiver_base" target="1.8" />
+      <module name="coderiver_common" target="1.8" />
+      <module name="coderiver_config" target="1.8" />
+      <module name="coderiver_email" target="1.8" />
+      <module name="coderiver_eureka" target="1.8" />
+      <module name="coderiver_event" target="1.8" />
+      <module name="coderiver_friend" target="1.8" />
+      <module name="coderiver_manager" target="1.8" />
+      <module name="coderiver_platform" target="1.8" />
+      <module name="coderiver_project" target="1.8" />
+      <module name="coderiver_qa" target="1.8" />
+      <module name="coderiver_recruit" target="1.8" />
+      <module name="coderiver_resources" target="1.8" />
+      <module name="coderiver_search" target="1.8" />
+      <module name="coderiver_user" target="1.8" />
+      <module name="coderiver_web" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="coderiver_base" options="-parameters" />
+      <module name="coderiver_common" options="-parameters" />
+      <module name="coderiver_config" options="-parameters" />
+      <module name="coderiver_email" options="-parameters" />
+      <module name="coderiver_eureka" options="-parameters" />
+      <module name="coderiver_event" options="-parameters" />
+      <module name="coderiver_friend" options="-parameters" />
+      <module name="coderiver_manager" options="-parameters" />
+      <module name="coderiver_project" options="-parameters" />
+      <module name="coderiver_qa" options="-parameters" />
+      <module name="coderiver_recruit" options="-parameters" />
+      <module name="coderiver_resources" options="-parameters" />
+      <module name="coderiver_search" options="-parameters" />
+      <module name="coderiver_user" options="-parameters" />
+      <module name="coderiver_web" options="-parameters" />
+    </option>
+  </component>
+</project>
